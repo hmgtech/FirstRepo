@@ -1,6 +1,6 @@
 Hello this is Just a demo text
 Written By Hitesh
-
 Now lets make changes over here
 This both line is added
 lets save it
+Okay This is machine 2
